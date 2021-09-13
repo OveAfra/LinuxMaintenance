@@ -1,0 +1,14 @@
+Dale Mantenimiento a tu Sistema Gnu/Linux con esta Herramienta de código abierto, puedes editarla a tu gusto. Seguiremos editandola por un tiempo, Puedes Contactarnos si deseas se le agregue algo en especifico. mientras disfruta de ella.
+
+OAE Mantenance es una Herramienta escrita en bash la cual se encuentra en Desarrollo, dicha herramienta fue creada por la Academia "OveAfra Ethical Academy".
+
+Actualmente cuenta con 25 opciones las cuales te ayudaran a ver información de tu sistema, tu dispositivo y ademas a reparar diversos errores como la velocidad, las dependencias y los bloqueos.
+
+INSTALACION
+-sudo apt update && sudo apt upgrade
+-sudo apt install figlet
+-sudo apt install git
+-sudo git clone https://github.com/OveAfra/LinuxMaintenance.git 
+-cd LinuxMaintenance
+-sudo chmod +x *
+-sudo ./OAEMain.sh o sudo bash OAEMain.sh
